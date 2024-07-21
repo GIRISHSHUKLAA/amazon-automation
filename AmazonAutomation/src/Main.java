@@ -22,7 +22,7 @@ public class Main {
 
             // Enter email/phone number
             WebElement email = driver.findElement(By.id("ap_email"));
-            email.sendKeys("8726886333");
+            email.sendKeys("xxxxxxx");
 
             // Click on the continue button
             WebElement continueButton = driver.findElement(By.id("continue"));
@@ -30,7 +30,7 @@ public class Main {
 
             // Enter password
             WebElement password = driver.findElement(By.id("ap_password"));
-            password.sendKeys("AMAZON@girish123");
+            password.sendKeys("xxxxxxxxx");
 
             // Click on the login button
             WebElement loginButton = driver.findElement(By.id("signInSubmit"));
